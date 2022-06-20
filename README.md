@@ -13,7 +13,7 @@ We release all our checkpoints on Huggingface, including other checkpoints we pr
 | -------------------- | ------------------------------- | ------------------------------------------------------------ |
 | ClinicalNoteBERT     | segment + note (MLM)            | [HF](https://huggingface.co/jhliu/ClinicalNoteBERT-base-uncased-MIMIC-segment-note) |
 | ClinicalNoteBERT-NTD | segment (MLM + NTD)             | [HF](https://huggingface.co/jhliu/ClinicalNoteBERT-base-uncased-NTD-MIMIC-segment) |
-| ClinicalNoteBERT-NTP | note (MLM + NTP)                | [HF](https://huggingface.co/jhliu/ClinicalAdaptation-PubMedBERT-base-uncased-MIMIC-note) |
+| ClinicalNoteBERT-NTP | note (MLM + NTP)                | [HF](https://huggingface.co/jhliu/ClinicalNoteBERT-base-uncased-NTP-MIMIC-note) |
 | PubMedBERT+sentence  | sentence  (MLM)                 | [HF](https://huggingface.co/jhliu/ClinicalAdaptation-PubMedBERT-base-uncased-MIMIC-sentence) |
 | PubMedBERT+segment   | segment (MLM)                   | [HF](https://huggingface.co/jhliu/ClinicalAdaptation-PubMedBERT-base-uncased-MIMIC-segment) |
 | PubMedBERT+note      | note  (MLM)                     | [HF](https://huggingface.co/jhliu/ClinicalAdaptation-PubMedBERT-base-uncased-MIMIC-note) |
